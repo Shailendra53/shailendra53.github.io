@@ -6,8 +6,8 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "Work Experience"
-    url: /experience/    
+#   - title: "Work Experience"
+#     url: /experience/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/
