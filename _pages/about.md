@@ -21,8 +21,7 @@ Education
 My Research Interest
 ======
 I am interested in Natural Language Processing & Artificial Intelligence(NLP & AI). Here is the list of further specific areas in NLP & AI:
-* Information Retrieval – Extracting information from structured/unstructured data and using it to develop relations which can help machines to understand the data.
-* Summarization of a topic from various sources. 
-* QAs between machine and humans – Help machines to answer human queries in a better way.
 * Machine-Human Interactions – Understand and develop techniques which can improve the machine-to-machine and human-to-machine interactions to be more humanlike using various natural languages.
+* Information Retrieval and topic summarization – Extracting information from structured/unstructured data and using it to develop relations which can help machines to understand the data.
+* NLP and Programming languages - Understanding codes from various programming languages and finding ways to teach machines "How to Code".
 * NLP & AI for Social good
