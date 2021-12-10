@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: ' 
 <details> 
-  <summary>Abstract</summary>
+  <summary><b>Abstract</b></summary>
   
     Much effort is being made to ensure the safety of people. One of the main requirements of
   travellers and city administrators is to have knowledge of places that are more prone to criminal
