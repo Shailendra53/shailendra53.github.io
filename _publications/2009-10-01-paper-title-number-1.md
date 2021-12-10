@@ -19,8 +19,8 @@ published by 6 daily English newspapers collected for approximately two years. E
 results show that the crime profiling matches with the ratings calculated manually by various
 organizations.'
 date: 2016-10-01
-venue: 'Accepted as a book chapter in the book "Smart Cities: Concept, Practices, and Applications" at CRC Taylor and Francis, Publication'
-paperurl: 'https://github.com/shreyanshu007/Crime-Analysis-BTP'
+venue: 'Accepted as a book chapter in the book "Smart Cities: Concept, Practices, and Applications" at CRC Taylor and Francis, Publication <br> [Code](https://github.com/shreyanshu007/Crime-Analysis-BTP)'
+paperurl: 'https://arxiv.org/abs/2111.10549'
 Authors: '<b>Authors:</b> Shailendra Kumar Gupta, Shreyanshu Shekhar, [Mukesh Kumar Saini](https://cse.iitrpr.ac.in/mukesh/), [Neeraj Goel](https://sites.google.com/view/neerajgoel)'
 ---
 This paper is about the number 1. The number 2 is left for future work.
